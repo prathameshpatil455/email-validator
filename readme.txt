@@ -1,0 +1,1 @@
+used a api called emailvalidtion.io
